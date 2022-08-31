@@ -11,13 +11,12 @@
    :alt: Discord
    
 .. image:: https://github.com/robinagandhi/flake8/actions/workflows/codeql-analysis.yml/badge.svg
-   :target: https://github.com/robinagandhi/flake8/main
+   :target: https://github.com/robinagandhi/flake8/actions/workflows/codeql-analysis.yml
    :alt: CodeQL status
 
 ========
  Flake8
 ========
-
 
 Flake8 is a wrapper around these tools:
 
