@@ -9,10 +9,13 @@
 .. image:: https://img.shields.io/discord/825463413634891776.svg
    :target: https://discord.gg/qYxpadCgkx
    :alt: Discord
+      
+[![CodeQL](https://github.com/robinagandhi/flake8/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/robinagandhi/flake8/actions/workflows/codeql-analysis.yml)
 
 ========
  Flake8
 ========
+
 
 Flake8 is a wrapper around these tools:
 
