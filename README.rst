@@ -9,8 +9,10 @@
 .. image:: https://img.shields.io/discord/825463413634891776.svg
    :target: https://discord.gg/qYxpadCgkx
    :alt: Discord
-      
-[![CodeQL](https://github.com/robinagandhi/flake8/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/robinagandhi/flake8/actions/workflows/codeql-analysis.yml)
+   
+.. image:: https://github.com/robinagandhi/flake8/actions/workflows/codeql-analysis.yml/badge.svg
+   :target: https://github.com/robinagandhi/flake8/main
+   :alt: CodeQL status
 
 ========
  Flake8
